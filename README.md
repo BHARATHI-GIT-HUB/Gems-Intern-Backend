@@ -1,10 +1,10 @@
 # Gems-Intern-Backend
-#install all packages
+Install all packages :
 Npm i 
 
-#connect ur mysql db
+Connect ur mysql db
 
-#start
+Start :
 Npm start
 
 Port : 8081
